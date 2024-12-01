@@ -4,15 +4,3 @@
     box-sizing: border-box;
 }
 
-ul {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-}
-
-p {
-    font-size: 22px;
-    color: red;
-}
